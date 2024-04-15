@@ -1,0 +1,4 @@
+@startuml
+objeto01 -> objeto02 : operacion01()
+objeto02 --> objeto01 : operacion02()
+@enduml
